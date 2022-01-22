@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/ou_Clion_Git.dir/main.cpp.o -o ou_Clion_Git.exe -Wl,--out-implib,libou_Clion_Git.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
